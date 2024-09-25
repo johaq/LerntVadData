@@ -3,7 +3,8 @@ LeRntVAD - Interpretable Generative Machine Learning for Intelligent Control of 
 
 Link: https://hammer-lab.techfak.uni-bielefeld.de/research/projects/lerntvad/
 
-Die Ergebnisse wurden in enger Zusammenarbeit mit dem Institut für Regelungstechnik der RWTH Aachen (IRT) und der Klinik für Anästhesiologie des Uniklinikums RWTH Aachen (UKA) erarbeitet.
+These results were obtained in close cooperation with the Institute of Automatic Control at RWTH Aachen (IRT) and the Anaesthesiology Clinic at
+Uniklinikum Aachen (UKA).
 
 For questions: ```jkummert@techfak.uni-bielefeld.de```
 
