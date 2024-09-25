@@ -1,5 +1,6 @@
 ## Projekt
 Interpretierbares Generatives Maschinelles Lernen zur intelligenten Regelung von Ventricular Assist Devices - LeRntVAD 
+
 Link: https://hammer-lab.techfak.uni-bielefeld.de/research/projects/lerntvad/
 
 Die Ergebnisse wurden in enger Zusammenarbeit mit dem Institut für Regelungstechnik der RWTH Aachen (IRT) und der Klinik für Anästhesiologie des Uniklinikums RWTH Aachen (UKA) erarbeitet.
