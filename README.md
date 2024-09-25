@@ -1,11 +1,11 @@
-## Projekt
-Interpretierbares Generatives Maschinelles Lernen zur intelligenten Regelung von Ventricular Assist Devices - LeRntVAD 
+## Project
+LeRntVAD - Interpretable Generative Machine Learning for Intelligent Control of Ventricular Assist Devices 
 
 Link: https://hammer-lab.techfak.uni-bielefeld.de/research/projects/lerntvad/
 
 Die Ergebnisse wurden in enger Zusammenarbeit mit dem Institut für Regelungstechnik der RWTH Aachen (IRT) und der Klinik für Anästhesiologie des Uniklinikums RWTH Aachen (UKA) erarbeitet.
 
-## Publikation
+## Publication
 J. Kummert et al., "Generating Cardiovascular Data to Improve Training of Assistive Heart Devices," 2023 IEEE Symposium Series on Computational Intelligence (SSCI), Mexico City, Mexico, 2023, pp. 1292-1297, doi: 10.1109/SSCI52147.2023.10372030.
 
 ```
@@ -20,3 +20,12 @@ J. Kummert et al., "Generating Cardiovascular Data to Improve Training of Assist
   keywords={Training;Heart;Biomedical equipment;Animals;Surgery;Medical services;Computer architecture;GAN;Data Generation;Data Enrichment;Medical Application},
   doi={10.1109/SSCI52147.2023.10372030}}
 ```
+## Description
+Generated Data trained on a set obtained from a simulation of different heart interventions.
+Different files for each of the interventions.
+Features:
+- Left heart ventricle volume
+- Aorta pressure signal
+- Left heart ventricle pressure
+- VAD flow
+- VAD speed
